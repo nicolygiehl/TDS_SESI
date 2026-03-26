@@ -7,6 +7,6 @@ numeros.pop();
 console.log(numeros);
 
 numeros.splice(1, 2); // remove o indice informado 
-console.log(numeros);
+console.log(numeros); 
 
 
