@@ -4,7 +4,7 @@ nome [0] = "Joao";
 nome [1] = "Pedro";
 nome [2] = "Monica";
 nome [3] = "Garlet";
-nome [4] = "Gustavo";
+nome [4] = "Nicoly";
 
 console.log(nome.length);
  console.log(nome);
