@@ -13,7 +13,7 @@ nome [9] = "Henrique";
 
 console.log(nome)
 console.log(nome.includes("Nicoly"));
-console.log("você esta na lista");
+console.log("você esta na lista");  
 
 
 
