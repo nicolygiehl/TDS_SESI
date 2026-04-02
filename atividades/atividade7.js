@@ -1,3 +1,5 @@
-for (let i = 0; i <= 10; i++) {
-        console.log('item ${1} verificado e registrado no inventario:' );
-}
+let contador = 0 ;
+        while (contador<= 10) {
+                console.log("item no seu inventario:" + contador);
+                contador++;
+        }
